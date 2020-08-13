@@ -5,4 +5,9 @@
 
 #footer-email {
     display: grid;
+    text-align: center;
+}
+
+.center-text {
+    text-align: center;
 }
