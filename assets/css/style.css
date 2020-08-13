@@ -1,13 +1,16 @@
+/* --------------------------------- Reusable styling */
+.center-text {
+    text-align: center;
+}
+
+/* --------------------------------- Nav styling */
 .logo-img {
     width: 200px;
     height: 200px;
 }
 
+/* --------------------------------- Footer styling */
 #footer-email {
     display: grid;
-    text-align: center;
-}
-
-.center-text {
     text-align: center;
 }
