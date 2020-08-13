@@ -1,35 +1,55 @@
 /* --------------------------------- Reusable styling */
 .center-text {
-    text-align: center;
+  text-align: center;
 }
 
 /* --------------------------------- Nav styling */
 .logo-img {
-    width: 200px;
-    height: 200px;
+  width: 200px;
+  height: 200px;
+}
+
+.nav-item {
+  padding: 0 20px;
 }
 
 .dropdown-menu {
-    border: 0;
+  border: 0;
 }
 
 .dropdown-item {
-    padding: 9px 9px;
-
+  padding: 9px 9px;
 }
 
 .dropdownl2 {
-    margin-top: 26%!important;
+  margin-top: 26% !important;
 }
 
-@media (max-width: 768px) {
-    .navbar-expand-md .navbar-nav .dropdown-menu {
-        position: absolute;
-    }
+@media (max-width: 767px) {
+  .logo-container {
+    float: right;
+    margin-right: 33%;
+  }
+
+  .navbar-light .navbar-toggler {
+    border: 0;
+    margin-top: 150px;
+  }
+
+  .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+}
+
+@media (max-width: 576px) {
+  .logo-container {
+    float: right;
+    margin-right: 20%;
+  }
 }
 
 /* --------------------------------- Footer styling */
 #footer-email {
-    display: grid;
-    text-align: center;
+  display: grid;
+  text-align: center;
 }
