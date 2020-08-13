@@ -48,6 +48,12 @@
   }
 }
 
+/* --------------------------------- Hero image styling */
+
+.img-fluid {
+    width: 100%;
+}
+
 /* --------------------------------- Footer styling */
 #footer-email {
   display: grid;
