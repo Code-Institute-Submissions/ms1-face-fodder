@@ -9,6 +9,25 @@
     height: 200px;
 }
 
+.dropdown-menu {
+    border: 0;
+}
+
+.dropdown-item {
+    padding: 9px 9px;
+
+}
+
+.dropdownl2 {
+    margin-top: 26%!important;
+}
+
+@media (max-width: 768px) {
+    .navbar-expand-md .navbar-nav .dropdown-menu {
+        position: absolute;
+    }
+}
+
 /* --------------------------------- Footer styling */
 #footer-email {
     display: grid;
