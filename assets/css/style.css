@@ -1,5 +1,6 @@
 /* --------------------------------- Reusable styling */
 
+
 /* --------------------------------- Nav styling */
 .logo-img {
   width: 200px;
@@ -45,10 +46,27 @@
   }
 }
 
-/* --------------------------------- Hero image styling */
+/* --------------------------------- Hero image section styling */
 
 .img-fluid {
     width: 100%;
+}
+
+.hero-image-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* --------------------------------- Home DIY solution section styling */
+
+.home-diy-container {
+    padding: 50px;
+}
+
+.home-diy-solution-images {
+    width: fit-content;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 /* --------------------------------- Footer styling */
