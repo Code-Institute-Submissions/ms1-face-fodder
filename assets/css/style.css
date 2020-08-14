@@ -78,17 +78,12 @@
 
 /* --------------------------------- Carousel section styling */
 
-.carousel-container {
-    background-color: lightpink;
-}
-
 .carousel-content-container {
     width: 80%;
     margin-left: 10%;
 }
 
 .carousel-inner {
-    background-color: lightskyblue;
     width: 70%;
     margin-left: 16%;
 }
