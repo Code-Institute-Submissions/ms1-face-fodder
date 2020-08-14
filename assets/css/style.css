@@ -97,6 +97,13 @@
 
 .card-item-text {
     padding-top: 10%;
+    padding-right: 40px;
+}
+
+@media (max-width: 767px) {
+    .card-item-text {
+        text-align: left!important;
+    }
 }
 
 /* --------------------------------- Carousel section styling */
