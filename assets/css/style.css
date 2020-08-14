@@ -78,6 +78,10 @@
 
 /* --------------------------------- Carousel section styling */
 
+.carousel-container {
+    padding: 50px;
+}
+
 .carousel-content-container {
     width: 80%;
     margin-left: 10%;
@@ -148,8 +152,27 @@
 
 }
 
-/* --------------------------------- Footer styling */
+/* --------------------------------- Sub footer styling */
+
+.sub-footer-container {
+        background: #fafafa;
+        padding: 50px;
+        margin-top: 50px;
+}
+
 #footer-email {
   display: grid;
   text-align: center;
+}
+
+.fab {
+    font-size: 50px;
+    margin: 3px;
+    }
+
+/* --------------------------------- Footer styling */
+
+footer {
+    background: lightgray;
+    padding: 5px;
 }
