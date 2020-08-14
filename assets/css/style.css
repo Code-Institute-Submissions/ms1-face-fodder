@@ -1,5 +1,8 @@
 /* --------------------------------- Reusable styling */
 
+.bg-lightgrey {
+    background-color: #fafafa;
+}
 
 /* --------------------------------- Nav styling */
 .logo-img {
@@ -74,6 +77,26 @@
     width: fit-content;
     margin-left: 10%;
     margin-right: 10%;
+}
+
+/* --------------------------------- Ingredients section styling */
+
+.ingredients-container {
+    padding: 50px 0;
+}
+
+.card {
+    padding: 5%;
+    border: 0;
+}
+
+.card-img {
+    border-radius: 50%;
+    padding-right: 40px;
+}
+
+.card-item-text {
+    padding-top: 10%;
 }
 
 /* --------------------------------- Carousel section styling */
