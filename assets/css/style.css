@@ -203,7 +203,7 @@
 
 .carousel-caption {
     color: #212529;
-    left: auto;
+    left: 0;
     margin-left: 50%;
     right: 5%;
     text-align: left;
