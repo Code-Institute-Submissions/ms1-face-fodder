@@ -120,7 +120,7 @@
     padding-left: 10%;
 }
 
-/* --------------------------------- Conact form section styling */
+/* --------------------------------- Contact form section styling */
 
 .contact-container {
     padding: 50px;
@@ -140,6 +140,16 @@
     border-left: 0;
     border-right: 0;
     border-radius: 0;
+}
+
+/* --------------------------------- Contact form success section styling */
+
+.success-container {
+    color: #63c29c;
+    width: 50%;
+    margin: auto;
+    padding-top: 50px;
+    line-height: 0.5;
 }
 
 /* --------------------------------- Carousel section styling */
