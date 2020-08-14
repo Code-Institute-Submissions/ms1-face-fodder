@@ -106,6 +106,20 @@
     }
 }
 
+/* --------------------------------- Recipe section styling */
+
+.recipe-container {
+    padding: 50px;
+}
+
+.recipe-heading-container {
+    margin-bottom: 50px;
+}
+
+.recipe-ingredients-list {
+    padding-left: 10%;
+}
+
 /* --------------------------------- Carousel section styling */
 
 .carousel-container {
