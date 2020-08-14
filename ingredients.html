@@ -23,41 +23,31 @@
 <body>
 	<header class="container-fluid">
 		<div class="logo-container">
-			<img
-          src="assets/img/facefodderlogo.png"
-          href="#"
-          class="rounded mx-auto d-block logo-img"
-          alt="Face Fodder Logo"
-        />
-      </div>
+			<img src="assets/img/facefodderlogo.png" href="#" class="rounded mx-auto d-block logo-img"
+	                alt="Face Fodder Logo" />
+	      </div>
 			<nav class="navbar navbar-expand-md sticky-top navbar-light">
-				<button
-          class="navbar-toggler"
-          type="button"
-          data-toggle="collapse"
-          data-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+	                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" >
+	                <span class="navbar-toggler-icon"></span>
+	                </button>
 				<div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
 					<ul class="navbar-nav">
 						<li class="nav-item active">
 							<a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
 						</li>
 						<li class="nav-item dropdown">
-							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+							<a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button"
 								data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Beauty Recipe Book </a>
 							<div class="dropdown-menu dropright" aria-labelledby="navbarDropdown">
-								<a class="dropdown-item" href="#">Ingredients</a>
+								<a class="dropdown-item" href="/ingredients.html">Ingredients</a>
 								<a class="dropdown-item dropdown-toggle" href="#" id="navbarDropdownL2" role="button"
-									data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">DIY Beauty Recipes </a>
+									data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">DIY Beauty Recipes
+								</a>
 								<div class="dropdown-menu dropdownl2" aria-labelledby="navbarDropdown">
-									<a class="dropdown-item" href="#">for Dry Skin</a>
-									<a class="dropdown-item" href="#">for Oily Skin</a>
-									<a class="dropdown-item" href="#">for Acne</a>
+									<a class="dropdown-item" href="/recipes/dryskin.html">for Dry Skin</a>
+									<a class="dropdown-item" href="/recipes/oilyskin.html">for Oily Skin</a>
+									<a class="dropdown-item" href="/recipes/acne.html">for Acne</a>
 								</div>
 							</div>
 						</li>
@@ -68,14 +58,68 @@
 				</div>
 			</nav>
 	</header>
-	<section></section>
-	<footer class="container-fluid d-flex justify-content-around">
-		<div class="container-fluid row text-center">
-			<div class="col-sm-4 justify-content-around" id="footer-email">
-				<h7>say</h7>
+	<section class="container-fluid hero-image-container">
+        <img src="assets/img/Alternative-skin-care-and-scrub-fresh-avocado-leaves-sea-salt-oils-lime-and-honey-on-marble-background.png" class="img-fluid" alt="Alternative skin care and scrub fresh avocado leaves sea salt oils lime and honey on marble background">
+    </section>
+    <section class="container-fluid ingredients-container">
+        <h5 class="text-center">FOOD YOUR SKIN WILL LOVE</h5>
+		<div class="container ingredient-item-container">
+			<img src="assets/img/dry-skin.png" alt="..." class="img-thumbnail">
+			<div class="">
+				<h5>First slide label</h5>
+				<p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+			</div>
+		</div>
+
+    </section>
+    <section class="container-fluid carousel-container">
+        <h5 class="text-center">MY FAV 3 DELICIOUS BEAUTY INGREDIENTS ...</h5>
+		<div id="carouselExampleCaptions" class="carousel carousel-content-container slide" data-ride="carousel">
+			<ol class="carousel-indicators">
+				<li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+				<li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+				<li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+			</ol>
+			<div class="carousel-inner">
+				<div class="carousel-item active">
+					<img src="assets/img/dry-skin.png" class="carousel-image d-block" alt="...">
+					<div class="carousel-caption d-none d-md-block">
+						<h5>First slide label</h5>
+						<p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+					</div>
+				</div>
+				<div class="carousel-item">
+					<img src="assets/img/oily-skin.png" class="carousel-image d-block" alt="...">
+					<div class="carousel-caption d-none d-md-block">
+						<h5>Second slide label</h5>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				</div>
+				<div class="carousel-item">
+					<img src="assets/img/acne-skin.png" class="carousel-image d-block" alt="...">
+					<div class="carousel-caption d-none d-md-block">
+						<h5>Third slide label</h5>
+						<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+					</div>
+				</div>
+			</div>
+			<a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+				<span class="sr-only">Previous</span>
+			</a>
+			<a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+				<span class="carousel-control-next-icon" aria-hidden="true"></span>
+				<span class="sr-only">Next</span>
+			</a>
+		</div>
+    </section>
+    <section class="container-fluid sub-footer-container d-flex justify-content-around">
+    	<div class="container row text-center">
+        	<div class="col-sm-6 justify-content-around" id="footer-email">
+				<h7>say HELLO!</h7>
 				<h7>hello@facefodder.com</h7>
 			</div>
-			<div class="col-sm-4 order-sm-12 d-flex justify-content-around text-center">
+			<div class="col-sm-6 d-flex justify-content-around text-center">
 				<div class="container row">
 					<div class="col-12">
 						<h7>lets get social</h7>
@@ -88,9 +132,11 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-4 order-sm-1 d-flex justify-content-around text-center">
+        </div>
+    </section>
+	<footer class="container-fluid d-flex justify-content-around">
+		<div class="container-fluid text-center">		
 				<h7>Face Fodder© Copyright 2020</h7>
-			</div>
 		</div>
 	</footer>
 </body>
