@@ -142,6 +142,12 @@
     border-radius: 0;
 }
 
+@media (max-width: 767px) {
+    .form-container {
+        width: 100%;
+    }
+}
+
 /* --------------------------------- Contact form success section styling */
 
 .success-container {
@@ -149,7 +155,13 @@
     width: 50%;
     margin: auto;
     padding-top: 50px;
-    line-height: 0.5;
+    line-height: 1;
+}
+
+@media (max-width: 767px) {
+    .success-container {
+        width: 100%;
+    }
 }
 
 /* --------------------------------- Carousel section styling */
