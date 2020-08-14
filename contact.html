@@ -17,6 +17,26 @@
 	</script>
 	<script src="https://kit.fontawesome.com/865efbed95.js" crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="assets/css/style.css" />
+    <script>
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (function() {
+    'use strict';
+    window.addEventListener('load', function() {
+        // Fetch all the forms we want to apply custom Bootstrap validation styles to
+        var forms = document.getElementsByClassName('needs-validation');
+        // Loop over them and prevent submission
+        var validation = Array.prototype.filter.call(forms, function(form) {
+        form.addEventListener('submit', function(event) {
+            if (form.checkValidity() === false) {
+            event.preventDefault();
+            event.stopPropagation();
+            }
+            form.classList.add('was-validated');
+        }, false);
+        });
+    }, false);
+    })();
+    </script>
 	<title>Face Fodder</title>
 </head>
 
@@ -61,23 +81,35 @@
 	<section class="container-fluid hero-image-container">
         <img src="assets/img/Alternative-skin-care-and-scrub-fresh-avocado-leaves-sea-salt-oils-lime-and-honey-on-marble-background.png" class="img-fluid" alt="Alternative skin care and scrub fresh avocado leaves sea salt oils lime and honey on marble background">
     </section>
-    <section class="container-fluid home-diy-container">
+    <section class="container-fluid contact-container">
         <h5 class="text-center">SAY HELLO!</h5>
-        <form>
-        <div class="form-group">
-            <label for="exampleInputEmail1">Email address</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+        <form class="form-container needs-validation" novalidate onsubmit="confirmInput()" action="index.html">
+        <div class="form-group form-group-details">
+            <label for="inptutName" class="d-none">name</label>
+            <input type="text" class="form-control form-control-details" id="inputName" placeholder="name"
+            required aria-describedby="nameHelp">
+            <div class="invalid-feedback">
+            please enter your name
+            </div>
+        </div>
+        <div class="form-group form-group-details">
+            <label for="inputEmail" class="d-none">email address</label>
+            <input type="email" class="form-control form-control-details" id="inputEmail" placeholder="email address"
+            required aria-describedby="emailHelp">
+            <div class="invalid-feedback">
+            please enter a valid email address that contains an @ symbol
+            </div>
+            <small id="emailHelp" class="form-text text-muted">we'll never share your email with anyone else</small>
         </div>
         <div class="form-group">
-            <label for="exampleInputPassword1">Password</label>
-            <input type="password" class="form-control" id="exampleInputPassword1">
+            <label for="inputQuery" class="d-none"></label>
+            <textarea type="text" id="inputQuery" class="form-control" name="inputQuery" rows="4" cols="50" placeholder="Please enter your question or feedback here."></textarea>
         </div>
         <div class="form-group form-check">
-            <input type="checkbox" class="form-check-input" id="exampleCheck1">
-            <label class="form-check-label" for="exampleCheck1">Check me out</label>
+            <input type="checkbox" class="form-check-input" id="addToMailList">
+            <label class="form-check-label" for="addToMailList">Yes, please add me to your mailing list</label>
         </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <input type="submit" class="btn btn-dark" redirect="index.html" value="SUBMIT">
         </form>
     </section>
     <section class="container-fluid carousel-container">
