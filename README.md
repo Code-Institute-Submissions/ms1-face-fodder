@@ -77,6 +77,11 @@ Inside the folder are wireframes for:
   - [Contact Page](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes/C4.%20Contact%20Page%20-%20Mobile.png)
 
 ### Logo and Slogan
+Using [Canva](https://www.canva.com/) I designed a logo for Face Fodder with the slogan "_delicious food for your face_". The slogan is to help a user understand almost straight away what the website has been designed for and what kind of information a user may find when browsing this website.
+
+The logo is an icon of a woman's face with a beauty treatment face mask applied to her face, and a towl on her head that has been made to look like a carrot/ food item. 
+
+![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/assets/img/facefodderlogo.png "Face Fodder Logo")
 
 ### Colour Palette & Fonts
 
