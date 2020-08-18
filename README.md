@@ -1,5 +1,4 @@
 # Face Fodder
-
 Face Fodder is a brand and informative website for users looking to learn about natural food ingredients which can be used for skincare maintenance.
 The website also houses DIY tutorials which users can follow like a recipe to make their own homemade skincare products, such as moisturising facemasks.
 
@@ -8,12 +7,10 @@ The word '_fodder_' is a slang term in the north of England for food, hence the 
 Face Fodder is a brand and blog I created a few years ago but using a drag and drop website builder tool. In this project I will give the informative website a layout refresh to make
 it more user intuitive, to deliver better UX and UI to a user. This time I will also be building the website from scratch using HTML and CSS.
 
-## Project Requirements
-
-### Functional requirements
+---------------------------------------------------------
+## User Experience (UX) Requirements
 
 ### Target User
-
 A millennial women who loves to pamper herself with luxury skincare but who would also like to experiment with using more natural ingredients in her daily skincare regime.
 She is looking to explore new and easy ways to make her own homemade skincare remedies which will deliver her the same results and experience. She loves eating healthy super foods.
 Face Fodder combines her love of superfoods with the goodness it delivers to her skin through the natural vitamins and mineral found in food she eats. She sees the Face Fodder
@@ -30,8 +27,7 @@ skincare recipes as a more natural and delicious way of nourishing her skin, and
 
 > User story 5 - _"When I'm cooking in the kitchen, I often use my iPad to view recipes or print them off for convenience"_
 
-
-#### User's Requirements
+### User's Requirements
 1. An intuitive navigation menu where a user can find DIY skincare recipes and ingredient information
 1. The skincare recipes must be easy to read, have a nice flow and be easy to follow by the user
 1. PDF download recipe cards
@@ -40,33 +36,39 @@ skincare recipes as a more natural and delicious way of nourishing her skin, and
 1. The website must be responsive to different screen sizes
 1. Must be able to download PDF recipes
 
-#### Site Owner's Requirements
+### Site Owner's Requirements
 1. The website needs to have a natural, bright and organic feel
 1. The website needs to display all information in a clear and minimal way
 1. Must be easy to maintain
 1. Link website to social platforms via icons: Facebook, Instagram, Pinterest
 
-### Non-functional requirements
-
-### Domain requirements
+---------------------------------------------------------
 
 ## Design
 
 ### Wireframes
 
+### Colour Palette & Fonts
+
 ### Features
 
+---------------------------------------------------------
 ## Development
 
 ### Technology Used
 
+---------------------------------------------------------
+
 ## Testing
 
+---------------------------------------------------------
+
 ## Deployment
+###Technology Used
+
+---------------------------------------------------------
 
 ## Credits
-
-### Content
 
 ### Media
 
