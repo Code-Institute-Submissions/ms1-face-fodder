@@ -85,6 +85,27 @@ The logo is an icon of a woman's face with a beauty treatment face mask applied 
 
 ### Colour Palette & Fonts
 
+The fonts I have selected are:
+```CSS
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Crushed', cursive;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+```
+The font Crushed is used in the sub text/ slogan in the Face Fodder logo. Raleway was a [popular font paring suggested by google fonts](https://fonts.google.com/specimen/Crushed?query=crushed&sidebar.open=true&selection.family=Crushed#pairings).
+
+The colour palette I chose for the website is:
+
+![alt text](https://fonts.google.com/specimen/Crushed?query=crushed&sidebar.open=true&selection.family=Crushed#pairings "Face Fodder Colour Palette")
+
 ### Features
 
 ---------------------------------------------------------
