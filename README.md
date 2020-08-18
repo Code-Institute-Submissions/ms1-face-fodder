@@ -46,12 +46,35 @@ skincare recipes as a more natural and delicious way of nourishing her skin, and
 
 ## Design
 
-### Website Naviagation and Layout
+### Website Navigation and Layout
+The website navigation will be layed out as depicted below:
+
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/wireframes/00.%20Face%20Fodde%20Site%20Map.png "Face Fodder Site Map")
 
-00. Face Fodde Site Map.png
+The flow of navigation follows a very similar flow to a culinery recipe cookbook, where you would have detailed information about individual ingredients and then the recipes themselves.
+
+This recogniable flow of navigation will hopefully prove intuitive to the user. 
 
 ### Wireframes
+
+All wireframes are located in the [wireframes folder](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes).
+
+Inside the folder are wireframes for:
+* desktop view
+  - [Home Page](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes/A1.%20Home%20Page%20-%20Desktop.png)
+  - [Ingredients Page](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes/A2.%20Ingredients%20Page%20-%20Desktop.png)
+  - [Recipe Pages](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes/A3.%20Recipe%20Page%20-%20Desktop.png)
+  - [Contact Page](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes/A4.%20Contact%20Page%20%20-%20Desktop.png)
+* iPad view (portrait & landscape)
+  - [Home Page](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes/B1.%20Home%20Page%20-%20iPad.png)
+  - [Ingredients Page](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes/B1.%20Home%20Page%20-%20iPad.png)
+  - [Recipe Pages](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes/B3.%20Recipe%20Page%20-%20iPad.png)
+  - [Contact Page](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes/B4.%20Contact%20Page%20-%20iPad.png)
+* mobile view (portrait & landscape)
+  - [Home Page](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes/C1.%20Home%20Page%20-%20Mobile.png)
+  - [Ingredients Page](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes/C1.%20Home%20Page%20-%20Mobile.png)
+  - [Recipe Pages](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes/C3.%20Recipe%20Page%20-%20Mobile.png)
+  - [Contact Page](https://github.com/caseybanks/ms1-face-fodder/blob/796fb54fe388c0af462a393817acdecd329a6ea6/wireframes/C4.%20Contact%20Page%20-%20Mobile.png)
 
 ### Logo and Slogan
 
