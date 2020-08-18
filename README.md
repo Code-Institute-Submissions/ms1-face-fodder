@@ -104,7 +104,7 @@ The font Crushed is used in the sub text/ slogan in the Face Fodder logo. Ralewa
 
 The colour palette I chose for the website is:
 
-![alt text](https://fonts.google.com/specimen/Crushed?query=crushed&sidebar.open=true&selection.family=Crushed#pairings "Face Fodder Colour Palette")
+![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/854842a94339ff74f715aafe597c4d4feb25964c/assets/img/face-fodder-colour-palette.png "Face Fodder Colour Palette")
 
 ### Features
 
