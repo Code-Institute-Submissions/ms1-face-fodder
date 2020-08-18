@@ -46,7 +46,14 @@ skincare recipes as a more natural and delicious way of nourishing her skin, and
 
 ## Design
 
+### Website Naviagation and Layout
+![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/wireframes/00.%20Face%20Fodde%20Site%20Map.png "Face Fodder Site Map")
+
+00. Face Fodde Site Map.png
+
 ### Wireframes
+
+### Logo and Slogan
 
 ### Colour Palette & Fonts
 
