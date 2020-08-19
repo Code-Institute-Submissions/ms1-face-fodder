@@ -11,7 +11,7 @@ it more user intuitive, to deliver better UX and UI to a user. This time I will 
 ## User Experience (UX) Requirements
 
 ### Target User
-A millennial women who loves to pamper herself with luxury skincare but who would also like to experiment with using more natural ingredients in her daily skincare regime.
+A millennial woman who loves to pamper herself with luxury skincare but who would also like to experiment with using more natural ingredients in her daily skincare regime.
 She is looking to explore new and easy ways to make her own homemade skincare remedies which will deliver her the same results and experience. She loves eating healthy super foods.
 Face Fodder combines her love of superfoods with the goodness it delivers to her skin through the natural vitamins and mineral found in food she eats. She sees the Face Fodder
 skincare recipes as a more natural and delicious way of nourishing her skin, and also enjoys learning about how the foods she eats can benefit her skin.
@@ -47,13 +47,13 @@ skincare recipes as a more natural and delicious way of nourishing her skin, and
 ## Design
 
 ### Website Navigation and Layout
-The website navigation will be layed out as depicted below:
+The website navigation will be laid out as depicted below:
 
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/wireframes/00.%20Face%20Fodde%20Site%20Map.png "Face Fodder Site Map")
 
-The flow of navigation follows a very similar flow to a culinery recipe cookbook, where you would have detailed information about individual ingredients and then the recipes themselves.
+The flow of navigation follows a very similar flow to a culinary recipe cookbook, where you would have detailed information about individual ingredients and then the recipes themselves.
 
-This recogniable flow of navigation will hopefully prove intuitive to the user. 
+This recognisable flow of navigation will hopefully prove intuitive to the user. 
 
 ### Wireframes
 
@@ -79,7 +79,7 @@ Inside the folder are wireframes for:
 ### Logo and Slogan
 Using [Canva](https://www.canva.com/) I designed a logo for Face Fodder with the slogan "_delicious food for your face_". The slogan is to help a user understand almost straight away what the website has been designed for and what kind of information a user may find when browsing this website.
 
-The logo is an icon of a woman's face with a beauty treatment face mask applied to her face, and a towl on her head that has been made to look like a carrot/ food item. 
+The logo is an icon of a woman's face with a beauty treatment face mask applied to her face, and a towel on her head that has been made to look like a carrot/ food item. 
 
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/assets/img/facefodderlogo.png "Face Fodder Logo")
 
@@ -105,6 +105,8 @@ The font Crushed is used in the sub text/ slogan in the Face Fodder logo. Ralewa
 The colour palette I chose for the website is:
 
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/854842a94339ff74f715aafe597c4d4feb25964c/assets/img/face-fodder-colour-palette.png "Face Fodder Colour Palette")
+
+The colours chosen are to give a natural, organic and soft feel to the website. #212529 has been chosen for text, to given a strong contrast between the white background and dark text, this is to meet with accessibility guidelines.
 
 ### Features
 
