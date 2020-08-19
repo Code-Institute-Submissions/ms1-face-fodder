@@ -182,7 +182,7 @@ with boostrap classes `needs-validation` and `invalid-feedback`, I was able to d
 
 #### Footer
 
-In the footer I have placed social media icon with links to the external social platforms, the links all open in a new tab/ window. An email address is also available if a user prefers to contact via email as opposed to the contact form available.
+In the footer I have placed social media icons with links to the external social platforms, the links all open in a new tab/ window. An email address is also available if a user prefers to contact via email as opposed to the contact form available.
 
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/75a74d8f6cf0536d203c87d5289acacee23a4839/features/footer.PNG "Face Fodder footer with social icon links")
 
@@ -191,6 +191,31 @@ In the footer I have placed social media icon with links to the external social 
 
 ### Technology Used
 
+I have used the following tools to build my website:
+
+__Languages:__
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+
+__Libraries:__
+* [Google fonts](https://fonts.google.com/)
+* [Fontawsome](https://fontawesome.com/)
+* [Boostrap (4.5.2)](https://getbootstrap.com/)
+
+__Design and Graphics:__
+* [Canva](https://www.canva.com/)
+* [Balsamq](https://balsamiq.com/)
+
+__Version Control and Developer Tools:__
+* [Github](https://github.com/)
+* [Gitpod](https://gitpod.io/)
+* [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools/)
+
+__Testing:__
+* [W3C Markup Validation Service](https://validator.w3.org/)
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+
 ---------------------------------------------------------
 
 ## Testing
@@ -198,7 +223,6 @@ In the footer I have placed social media icon with links to the external social 
 ---------------------------------------------------------
 
 ## Deployment
-###Technology Used
 
 ---------------------------------------------------------
 
