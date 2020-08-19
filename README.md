@@ -111,9 +111,9 @@ The colours chosen are to give a natural, organic and soft feel to the website. 
 ### Features
 
 #### Desktop Menu
-I have created a naviagtion menu that follows the [site map](https://github.com/caseybanks/ms1-face-fodder/blob/master/wireframes/00.%20Face%20Fodde%20Site%20Map.png) of the website. On level 1 of the menu, on hover the text colour intensifies. On dropdown level 2 and 3 of the menu, the text background is highlighted grey. Both of these menu features have been added so that a user can easily follow their selection.
+I have created a naviagtion menu that follows the [site map](https://github.com/caseybanks/ms1-face-fodder/blob/master/wireframes/00.%20Face%20Fodde%20Site%20Map.png) of the website. On level 1 of the menu, on hover the text colour intensifies. On dropdown level 2 and 3 of the menu, the text background is highlighted grey. Both of these menu features have been added so that a user can easily follow their selection. The menu has been made '_sticky_' using the boostrap class `sticky-top`, this is to ensure the menu is static when a user scrolls a page.
 
-On each page I have also used a hero image of nature ingredients to add an elegant and organic feel to the UI.
+On each page I have also used a hero image of natural ingredients to add an elegant and organic feel to the UI.
 
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/features/desktop-menu.PNG "Face Fodder Desktop Menu")
 
@@ -124,6 +124,8 @@ I have used a burger menu for small screen devices. Each page of the website has
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/features/responsive-design.PNG "Responsive Burger menu design")
 
 #### Home Page Feature recipes
+
+
 
 #### Carousel
 
