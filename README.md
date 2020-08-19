@@ -182,6 +182,10 @@ with boostrap classes `needs-validation` and `invalid-feedback`, I was able to d
 
 #### Footer
 
+In the footer I have placed social media icon with links to the external social platforms, the links all open in a new tab/ window. An email address is also available if a user prefers to contact via email as opposed to the contact form available.
+
+![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/75a74d8f6cf0536d203c87d5289acacee23a4839/features/footer.PNG "Face Fodder footer with social icon links")
+
 ---------------------------------------------------------
 ## Development
 
