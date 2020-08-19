@@ -110,6 +110,20 @@ The colours chosen are to give a natural, organic and soft feel to the website. 
 
 ### Features
 
+#### Desktop Menu
+
+#### Responsive Burger Menu
+
+#### Home Page Feature recipes
+
+#### Carousel
+
+#### Contact form
+
+#### Contact form Validation
+
+#### Footer
+
 ---------------------------------------------------------
 ## Development
 
