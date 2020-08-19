@@ -108,6 +108,8 @@ The colour palette I chose for the website is:
 
 The colours chosen are to give a natural, organic and soft feel to the website. #212529 has been chosen for text, to given a strong contrast between the white background and dark text, this is to meet with accessibility guidelines.
 
+All buttons will have a background colour of #63c29c.
+
 ### Features
 
 #### Desktop Menu
@@ -125,9 +127,20 @@ I have used a burger menu for small screen devices. Each page of the website has
 
 #### Home Page Feature recipes
 
+On the home page, I have address user story 2:
+> User story 2 - _"My skin is really dry, I wonder what could help with the dryness?"_
 
+![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/features/quick-nav-to-face-mask-recipes.PNG "Home page quick feature links to face mask recipes")
+
+When a user lands on the home page they can quickly naviagtion to a skin care solution via these home page feature images.
 
 #### Carousel
+
+I have created two carousels through the website, one for featured ingredients, and a second for featured face mask recipes on rotation. These are automated to showcase featured ingredients and recipes, they also have a button if a user desires extra information.
+
+![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/features/carousel.PNG "Ingredients Carousel")
+
+![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/features/carouselv2.PNG "Recipe Carousel")
 
 #### Contact form
 
