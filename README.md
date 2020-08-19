@@ -144,7 +144,41 @@ I have created two carousels through the website, one for featured ingredients, 
 
 #### Contact form
 
+A website contact form has been build to address user story 4:
+
+> User story 4 - _"I've tried a few recipes on the Face Fodder website and love them, but I have a question I need to ask?"_
+
+![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/features/contact-form.PNG "Contact form")
+
 #### Contact form Validation
+
+The name and email address fields have been set as `required` fields. Using the JS validation event handler script form the [boostrap website](https://getbootstrap.com/docs/4.1/components/forms/#validation):
+
+```Javascript
+<script>
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (function() {
+    'use strict';
+    window.addEventListener('load', function() {
+        // Fetch all the forms we want to apply custom Bootstrap validation styles to
+        var forms = document.getElementsByClassName('needs-validation');
+        // Loop over them and prevent submission
+        var validation = Array.prototype.filter.call(forms, function(form) {
+        form.addEventListener('submit', function(event) {
+            if (form.checkValidity() === false) {
+            event.preventDefault();
+            event.stopPropagation();
+            }
+            form.classList.add('was-validated');
+        }, false);
+        });
+    }, false);
+    })();
+    </script>
+```
+with boostrap classes `needs-validation` and `invalid-feedback`, I was able to display valid and invalid fields with more helpful feedback and icons, as depicted in the below screenshot:
+
+![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/features/contact-form-validation.PNG "Contact form UI validation alerts")
 
 #### Footer
 
