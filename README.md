@@ -1,4 +1,6 @@
 # Face Fodder
+View the live website [here](https://caseybanks.github.io/ms1-face-fodder).
+
 Face Fodder is a brand and informative website for users looking to learn about natural food ingredients which can be used for skincare maintenance.
 The website also houses DIY tutorials which users can follow like a recipe to make their own homemade skincare products, such as moisturising facemasks.
 
@@ -17,7 +19,7 @@ it more user intuitive, to deliver better UX and UI to a user. This time I will 
     - [Website Navigation and Layout](https://github.com/caseybanks/ms1-face-fodder#website-navigation-and-layout)
     - [Wireframes](https://github.com/caseybanks/ms1-face-fodder#wireframes)
     - [Logo and Slogan](https://github.com/caseybanks/ms1-face-fodder#logo-and-slogan)
-    - [Colour Palette & Fonts](https://github.com/caseybanks/ms1-face-fodder#colour-palette-and-fonts)
+    - [Colour Palette and Fonts](https://github.com/caseybanks/ms1-face-fodder#colour-palette-and-fonts)
 * [Features](https://github.com/caseybanks/ms1-face-fodder#features)
     - [Desktop Menu](https://github.com/caseybanks/ms1-face-fodder#desktop-menu)
     - [Responsive Burger Menu](https://github.com/caseybanks/ms1-face-fodder#responsive-burger-menu)
