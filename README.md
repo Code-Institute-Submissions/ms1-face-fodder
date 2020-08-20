@@ -17,7 +17,7 @@ it more user intuitive, to deliver better UX and UI to a user. This time I will 
     - [Website Navigation and Layout](https://github.com/caseybanks/ms1-face-fodder#website-navigation-and-layout)
     - [Wireframes](https://github.com/caseybanks/ms1-face-fodder#wireframes)
     - [Logo and Slogan](https://github.com/caseybanks/ms1-face-fodder#logo-and-slogan)
-    - [Colour Palette & Fonts](https://github.com/caseybanks/ms1-face-fodder#colour-palette--fonts)
+    - [Colour Palette & Fonts](https://github.com/caseybanks/ms1-face-fodder#colour-palette-and-fonts)
 * [Features](https://github.com/caseybanks/ms1-face-fodder#features)
     - [Desktop Menu](https://github.com/caseybanks/ms1-face-fodder#desktop-menu)
     - [Responsive Burger Menu](https://github.com/caseybanks/ms1-face-fodder#responsive-burger-menu)
@@ -107,7 +107,7 @@ The logo is an icon of a woman's face with a beauty treatment face mask applied 
 
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/assets/img/facefodderlogo.png "Face Fodder Logo")
 
-### Colour Palette & Fonts
+### Colour Palette and Fonts
 
 The fonts I have selected are:
 ```CSS
