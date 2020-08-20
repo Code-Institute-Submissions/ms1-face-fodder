@@ -7,7 +7,6 @@ The word '_fodder_' is a slang term in the north of England for food, hence the 
 Face Fodder is a brand and blog I created a few years ago but using a drag and drop website builder tool. In this project I will give the informative website a layout refresh to make
 it more user intuitive, to deliver better UX and UI to a user. This time I will also be building the website from scratch using HTML and CSS.
 
----------------------------------------------------------
 ## User Experience (UX) Requirements
 
 ### Target User
@@ -41,8 +40,6 @@ skincare recipes as a more natural and delicious way of nourishing her skin, and
 1. The website needs to display all information in a clear and minimal way
 1. Must be easy to maintain
 1. Link website to social platforms via icons: Facebook, Instagram, Pinterest
-
----------------------------------------------------------
 
 ## Design
 
@@ -186,7 +183,6 @@ In the footer I have placed social media icons with links to the external social
 
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/75a74d8f6cf0536d203c87d5289acacee23a4839/features/footer.PNG "Face Fodder footer with social icon links")
 
----------------------------------------------------------
 ## Development
 
 ### Technology Used
@@ -215,16 +211,11 @@ __Testing:__
 * [W3C Markup Validation Service](https://validator.w3.org/)
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
-
----------------------------------------------------------
-
 ## Testing
 
----------------------------------------------------------
+All testing documentation can be found in the [testing.md](https://github.com/caseybanks/ms1-face-fodder/blob/6f8efbfb752be91b37b4abb2cacefa53f074a764/testing.md) file.
 
 ## Deployment
-
----------------------------------------------------------
 
 ## Credits
 
