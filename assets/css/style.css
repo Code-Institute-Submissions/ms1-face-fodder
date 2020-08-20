@@ -110,7 +110,7 @@ header {
 
 .card-img {
     border-radius: 50%;
-    padding-right: 40px;
+    padding: 20px;
 }
 
 .card-item-text {
@@ -269,6 +269,12 @@ header {
 #footer-email {
   display: grid;
   text-align: center;
+}
+
+@media (max-width: 576px) {
+    #footer-social {
+            padding-top: 30px;
+    }
 }
 
 .fab {
