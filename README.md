@@ -9,7 +9,7 @@ The word '_fodder_' is a slang term in the north of England for food, hence the 
 Face Fodder is a brand and blog I created a few years ago but using a drag and drop website builder tool. In this project I will give the informative website a layout refresh to make
 it more user intuitive, to deliver better UX and UI to a user. This time I will also be building the website from scratch using HTML and CSS.
 
-# Table of Contents
+## Table of Contents
 * [User Experience (UX) Requirements](https://github.com/caseybanks/ms1-face-fodder#user-experience-ux-requirements)
     - [Target User](https://github.com/caseybanks/ms1-face-fodder#target-user)
     - [User Stories](https://github.com/caseybanks/ms1-face-fodder#user-stories)
@@ -69,6 +69,8 @@ skincare recipes as a more natural and delicious way of nourishing her skin, and
 1. The website needs to display all information in a clear and minimal way
 1. Must be easy to maintain
 1. Link website to social platforms via icons: Facebook, Instagram, Pinterest
+
+[back to top](https://github.com/caseybanks/ms1-face-fodder#face-fodder)
 
 ## Design
 
@@ -135,6 +137,8 @@ The colour palette I chose for the website is:
 The colours chosen are to give a natural, organic and soft feel to the website. #212529 has been chosen for text, to given a strong contrast between the white background and dark text, this is to meet with accessibility guidelines.
 
 All buttons will have a background colour of #63c29c.
+
+[back to top](https://github.com/caseybanks/ms1-face-fodder#face-fodder)
 
 ## Features
 
@@ -212,6 +216,8 @@ In the footer I have placed social media icons with links to the external social
 
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/75a74d8f6cf0536d203c87d5289acacee23a4839/features/footer.PNG "Face Fodder footer with social icon links")
 
+[back to top](https://github.com/caseybanks/ms1-face-fodder#face-fodder)
+
 ## Development
 
 ### Technology Used
@@ -240,9 +246,13 @@ __Testing:__
 * [W3C Markup Validation Service](https://validator.w3.org/)
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
+[back to top](https://github.com/caseybanks/ms1-face-fodder#face-fodder)
+
 ## Testing
 
 All testing documentation can be found in the [testing.md](https://github.com/caseybanks/ms1-face-fodder/blob/6f8efbfb752be91b37b4abb2cacefa53f074a764/testing.md) file.
+
+[back to top](https://github.com/caseybanks/ms1-face-fodder#face-fodder)
 
 ## Deployment
 
@@ -251,6 +261,8 @@ All testing documentation can be found in the [testing.md](https://github.com/ca
 ### Media
 
 ### Acknowledgements
+
+[back to top](https://github.com/caseybanks/ms1-face-fodder#face-fodder)
 
 ## Gitpod Reminders
 
