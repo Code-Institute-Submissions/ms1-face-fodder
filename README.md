@@ -7,6 +7,33 @@ The word '_fodder_' is a slang term in the north of England for food, hence the 
 Face Fodder is a brand and blog I created a few years ago but using a drag and drop website builder tool. In this project I will give the informative website a layout refresh to make
 it more user intuitive, to deliver better UX and UI to a user. This time I will also be building the website from scratch using HTML and CSS.
 
+# Table of Contents
+* [User Experience (UX) Requirements](https://github.com/caseybanks/ms1-face-fodder#user-experience-ux-requirements)
+    - [Target User](https://github.com/caseybanks/ms1-face-fodder#target-user)
+    - [User Stories](https://github.com/caseybanks/ms1-face-fodder#user-stories)
+    - [User's Requirements](https://github.com/caseybanks/ms1-face-fodder#users-requirements)
+    - [Site Owner's Requirements](https://github.com/caseybanks/ms1-face-fodder#site-owners-requirements)
+* [Design](https://github.com/caseybanks/ms1-face-fodder#design)
+    - [Website Navigation and Layout](https://github.com/caseybanks/ms1-face-fodder#website-navigation-and-layout)
+    - [Wireframes](https://github.com/caseybanks/ms1-face-fodder#wireframes)
+    - [Logo and Slogan](https://github.com/caseybanks/ms1-face-fodder#logo-and-slogan)
+    - [Colour Palette & Fonts](https://github.com/caseybanks/ms1-face-fodder#colour-palette--fonts)
+* [Features](https://github.com/caseybanks/ms1-face-fodder#features)
+    - [Desktop Menu](https://github.com/caseybanks/ms1-face-fodder#desktop-menu)
+    - [Responsive Burger Menu](https://github.com/caseybanks/ms1-face-fodder#responsive-burger-menu)
+    - [Home Page Feature Recipes](https://github.com/caseybanks/ms1-face-fodder#home-page-feature-recipes)
+    - [Carousel](https://github.com/caseybanks/ms1-face-fodder#carousel)
+    - [Contact Form](https://github.com/caseybanks/ms1-face-fodder#contact-form)
+    - [Contact Form Validation](https://github.com/caseybanks/ms1-face-fodder#contact-form-validation)
+    - [Footer](https://github.com/caseybanks/ms1-face-fodder#footer)
+* [Development](https://github.com/caseybanks/ms1-face-fodder#development)
+    - [Technology Used](https://github.com/caseybanks/ms1-face-fodder#technology-used)
+* [Testing](https://github.com/caseybanks/ms1-face-fodder#testing)
+* [Deployment](https://github.com/caseybanks/ms1-face-fodder#deployment)
+* [Credits](https://github.com/caseybanks/ms1-face-fodder#credits)
+    - [Media](https://github.com/caseybanks/ms1-face-fodder#media)
+    - [Acknowledgements](https://github.com/caseybanks/ms1-face-fodder#acknowledgements)
+
 ## User Experience (UX) Requirements
 
 ### Target User
@@ -107,22 +134,22 @@ The colours chosen are to give a natural, organic and soft feel to the website. 
 
 All buttons will have a background colour of #63c29c.
 
-### Features
+## Features
 
-#### Desktop Menu
+### Desktop Menu
 I have created a naviagtion menu that follows the [site map](https://github.com/caseybanks/ms1-face-fodder/blob/master/wireframes/00.%20Face%20Fodde%20Site%20Map.png) of the website. On level 1 of the menu, on hover the text colour intensifies. On dropdown level 2 and 3 of the menu, the text background is highlighted grey. Both of these menu features have been added so that a user can easily follow their selection. The menu has been made '_sticky_' using the boostrap class `sticky-top`, this is to ensure the menu is static when a user scrolls a page.
 
 On each page I have also used a hero image of natural ingredients to add an elegant and organic feel to the UI.
 
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/features/desktop-menu.PNG "Face Fodder Desktop Menu")
 
-#### Responsive Burger Menu
+### Responsive Burger Menu
 
 I have used a burger menu for small screen devices. Each page of the website has been optimised to small screen devices, using media queries `@media (max-width: 576px)` and `@media (max-width: 767px)` to reduce 3 or 2 columns into 1 column on a small screen.
 
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/features/responsive-design.PNG "Responsive Burger menu design")
 
-#### Home Page Feature recipes
+### Home Page Feature Recipes
 
 On the home page, I have address user story 2:
 > User story 2 - _"My skin is really dry, I wonder what could help with the dryness?"_
@@ -131,7 +158,7 @@ On the home page, I have address user story 2:
 
 When a user lands on the home page they can quickly naviagtion to a skin care solution via these home page feature images.
 
-#### Carousel
+### Carousel
 
 I have created two carousels through the website, one for featured ingredients, and a second for featured face mask recipes on rotation. These are automated to showcase featured ingredients and recipes, they also have a button if a user desires extra information.
 
@@ -139,7 +166,7 @@ I have created two carousels through the website, one for featured ingredients, 
 
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/features/carouselv2.PNG "Recipe Carousel")
 
-#### Contact form
+### Contact Form
 
 A website contact form has been build to address user story 4:
 
@@ -147,7 +174,7 @@ A website contact form has been build to address user story 4:
 
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/features/contact-form.PNG "Contact form")
 
-#### Contact form Validation
+### Contact Form Validation
 
 The name and email address fields have been set as `required` fields. Using the JS validation event handler script form the [boostrap website](https://getbootstrap.com/docs/4.1/components/forms/#validation):
 
@@ -177,7 +204,7 @@ with boostrap classes `needs-validation` and `invalid-feedback`, I was able to d
 
 ![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/master/features/contact-form-validation.PNG "Contact form UI validation alerts")
 
-#### Footer
+### Footer
 
 In the footer I have placed social media icons with links to the external social platforms, the links all open in a new tab/ window. An email address is also available if a user prefers to contact via email as opposed to the contact form available.
 
