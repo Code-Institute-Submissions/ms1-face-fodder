@@ -264,6 +264,16 @@ All testing documentation can be found in the [testing.md](https://github.com/ca
 
 [back to top](https://github.com/caseybanks/ms1-face-fodder#face-fodder)
 
-## Versions and Fixes
+## Versions, Bugs and Fixes
 
-Version v1 publised 20/08/2020
+Version v1 publised on 20/08/2020
+
+Version v1.1 publised on 23/08/2020 to fix the following bugs:
+1. [FF1: Add Home link to Logo image](https://github.com/caseybanks/ms1-face-fodder/issues/1)
+1. [FF2: Make form submit success page clearer](https://github.com/caseybanks/ms1-face-fodder/issues/2)
+1. [FF3: On small screen the "HOME DIY SOLUTIONS FOR ..." section does not center align images](https://github.com/caseybanks/ms1-face-fodder/issues/3)
+1. [FF4: Make Beauty Benefits text bigger on Ingredients page](https://github.com/caseybanks/ms1-face-fodder/issues/4)
+1. [FF6: Add a :hover effect to the social icons](https://github.com/caseybanks/ms1-face-fodder/issues/6)
+
+Outstanding bug/s to be fixed:
+1. [FF5: When a dropdown nav item is clicked it is highlighted blue](https://github.com/caseybanks/ms1-face-fodder/issues/5)
