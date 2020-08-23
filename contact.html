@@ -87,9 +87,9 @@
         <h4 class="text-center mb-5">SAY HELLO!</h4>
         <form class="form-container needs-validation" novalidate onsubmit="confirmInput()" action="success.html">
         <div class="form-group form-group-details">
-            <label for="inptutName" class="d-none">name</label>
+            <label for="inputName" class="d-none">name</label>
             <input type="text" class="form-control form-control-details" id="inputName" placeholder="name"
-            required aria-describedby="nameHelp">
+            required>
             <div class="invalid-feedback">
             please enter your name
             </div>
@@ -105,13 +105,13 @@
         </div>
         <div class="form-group">
             <label for="inputQuery" class="d-none"></label>
-            <textarea type="text" id="inputQuery" class="form-control" name="inputQuery" rows="4" cols="50" placeholder="Please enter your question or feedback here."></textarea>
+            <textarea id="inputQuery" class="form-control" name="inputQuery" rows="4" cols="50" placeholder="Please enter your question or feedback here."></textarea>
         </div>
         <div class="form-group form-check">
             <input type="checkbox" class="form-check-input" id="addToMailList">
             <label class="form-check-label" for="addToMailList">Yes, please add me to your mailing list</label>
         </div>
-        <input type="submit" class="btn btn-mintgreen" redirect="index.html" value="SUBMIT">
+        <input type="submit" class="btn btn-mintgreen" value="SUBMIT">
         </form>
     </section>
     <section class="container-fluid carousel-container">
