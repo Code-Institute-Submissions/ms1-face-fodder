@@ -96,6 +96,33 @@ The following features were manually tested:
 
 ## Peers Review Testing
 
+Review by _Miranda_ on _16th August 2020_:
+> Hey @Casey! Great work on your first milestone project. You've created a beautiful design with a great colour scheme and a clean layout.
+I have a few comments for you to consider:
+>1. Consider allowing users to click on the logo to return to the home page. This is standard practice and will add to the user experience for ease of navigation.
+>1. The 'form submission' feature you've added is brilliant! Really well done. One small comment about it though: perhaps consider moving the message to the top of the screen so the user immediately sees that it was submitted successfully? It'll save them having to scroll down before seeing whether it was successfully submitted or not.
+>1. A really minor detail, but the images on the home page aren't aligned to the center on screens smaller than 767px. I think that can be quickly solved by targeting the margins with a media query.
+>1. I found the 'beauty benefits' quite small to read - it could just be a taste and preference thing, but consider making the font slightly larger as I think the information is good for the user to read easily.
+
+Review by _Karina_ on _16th August 2020_:
+>I really love the clean design and your logo is brilliant! I have a few points that might be helpful:
+>1. The focus outline is the default blue and it clashes with your lovely clean green and white tones. I would make it so that that colour is the green of your logo. You can see this clearly when you click on your hamburger navigation, or by tabbing through the site.
+>1. I would add a :hover effect to the social icons - maybe a colour change or something?
+>1. Between around 628-768px screen width your social icons stack 3 on top, 1 on the bottom - design-wise I think keep the 2 and 2 block design or force 4 in a row sooner - 3 &1 looks somewhat unbalanced.
+>1. I'm not sure you need the email address in your footer, given that you have a contact page? Maybe you could do nav-links there instead? I do see that design-wise it's balancing the social icons.
+>1. the grey copyright bar underneath your footer feels tonally unnecessary - I might make it the same colour as the footer with maybe a thin divider line? Or if not, give the copyright line a little bit more padding.
+>
+>These are mostly design-based considerations as I think your site is really lovely, and worked perfectly for me on desktop.
+>
+>On mobile the "dry skin ---> acne" images are slightly off-centre, as are the images of ginger and avocado, the latter also have a wafer thin line down their right side.
+
+Review by _Neringa_ on _16th August 2020_:
+>@Casey I love the idea of your MS1, super cool! The site looks lovely! I have looked at it on my hp laptop and sizing looks good. One thought - when I press on contact it shows the hero image and I don't see right away that I need to scroll down to see the form to complete. That's my only think that I could say, however if you're happy with it that's all good!
+
+To address the peer review comments and bugs I have raised the following bugs as To Do:
+
+
+
 ## W3C Validation Testing
 
 ### HTML
@@ -111,6 +138,3 @@ The following features were manually tested:
 [Am I Responsive?](http://ami.responsivedesign.is/)
 
 [Responsinator](https://www.responsinator.com/)
-
-## Bugs
-
