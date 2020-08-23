@@ -119,9 +119,13 @@ Review by _Karina_ on _16th August 2020_:
 Review by _Neringa_ on _16th August 2020_:
 >@Casey I love the idea of your MS1, super cool! The site looks lovely! I have looked at it on my hp laptop and sizing looks good. One thought - when I press on contact it shows the hero image and I don't see right away that I need to scroll down to see the form to complete. That's my only think that I could say, however if you're happy with it that's all good!
 
-To address the peer review comments and bugs I have raised the following bugs as To Do:
-
-
+To address the peer review comments and bugs I have raised the following bugs as To Do in the [Git Project Management tool](https://github.com/caseybanks/ms1-face-fodder/projects/1):
+1. [FF1: Add Home link to Logo image](https://github.com/caseybanks/ms1-face-fodder/issues/1)
+1. [FF2: Make form submit success page clearer](https://github.com/caseybanks/ms1-face-fodder/issues/2)
+1. [FF3: On small screen the "HOME DIY SOLUTIONS FOR ..." section does not center align images](https://github.com/caseybanks/ms1-face-fodder/issues/3)
+1. [FF4: Make Beauty Benefits text bigger on Ingredients page](https://github.com/caseybanks/ms1-face-fodder/issues/4)
+1. [FF5: When a dropdown nav item is clicked it is highlighted blue](https://github.com/caseybanks/ms1-face-fodder/issues/5)
+1. [FF6: Add a :hover effect to the social icons](https://github.com/caseybanks/ms1-face-fodder/issues/6)
 
 ## W3C Validation Testing
 
