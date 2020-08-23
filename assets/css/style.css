@@ -271,17 +271,21 @@ header {
   text-align: center;
 }
 
-@media (max-width: 576px) {
-    #footer-social {
-            padding-top: 30px;
-    }
-}
-
 .fab {
     color: #212529;
     font-size: 50px;
     margin: 3px;
+}
+
+.fab:hover {
+    color: #76686a;
+}
+
+@media (max-width: 576px) {
+    #footer-social {
+        padding-top: 30px;
     }
+}
 
 /* --------------------------------- Footer styling */
 
