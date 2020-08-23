@@ -130,11 +130,26 @@ To address the peer review comments and bugs I have raised the following bugs as
 
 ### HTML
 
-[Markup Validation Service](https://validator.w3.org/)
+Using direct input into the [Markup Validation Service](https://validator.w3.org/), the following bugs were highlighted and fixed:
+
+1. [W3C Footer error: Incorrect <h7> tag](https://github.com/caseybanks/ms1-face-fodder/issues/13)
+1. [W3C Markup Contact form errors](https://github.com/caseybanks/ms1-face-fodder/issues/14)
+
+|Page|Pass or Fail|W3C Comments|
+|:---|:----------:|:-----------|
+|index.html|Pass| With a warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.|
+|dryskin.html|Pass| With a warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.|
+|tiredskin.html|Pass| With a warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.|
+|acne.html|Pass| With a warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.|
+|ingredients.html|Pass| With a warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.|
+|contact.html|Pass| With a warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.|
+|success.html|Pass| With a warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.|
+
+The warning for lack of heading is for my Hero image section, which does not require a heading.
 
 ### CSS
 
-[CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+Using direct input into the [CSS Validation Service](https://jigsaw.w3.org/css-validator/), no errors were found in my style.css file.
 
 ## Responsiveness Testing
 
