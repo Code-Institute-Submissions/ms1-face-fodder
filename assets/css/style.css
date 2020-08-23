@@ -91,10 +91,10 @@ header {
     padding: 50px;
 }
 
-.home-diy-solution-images {
-    width: fit-content;
-    margin-left: 10%;
-    margin-right: 10%;
+@media (max-width: 767px) {
+    .home-diy-solution-row {
+        margin-left: 10px;
+}
 }
 
 /* --------------------------------- Ingredients section styling */
