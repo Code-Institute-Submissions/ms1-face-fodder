@@ -264,12 +264,6 @@ All testing documentation can be found in the [testing.md](https://github.com/ca
 
 [back to top](https://github.com/caseybanks/ms1-face-fodder#face-fodder)
 
-## Gitpod Reminders
+## Versions and Fixes
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
+Version v1 publised 20/08/2020
