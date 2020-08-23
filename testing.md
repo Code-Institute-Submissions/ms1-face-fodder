@@ -4,9 +4,9 @@
 * [User Story Testing](https://github.com/caseybanks/ms1-face-fodder/blob/master/testing.md#user-story-testing)
 * [Manual Testing of Features](https://github.com/caseybanks/ms1-face-fodder/blob/master/testing.md#manual-testing-of-features)
 * [Peers Review Testing](https://github.com/caseybanks/ms1-face-fodder/blob/master/testing.md#peers-review-testing)
-* [W3C Validation Testing]()
-    - [HTML]()
-    - [CSS]()
+* [W3C Validation Testing](https://github.com/caseybanks/ms1-face-fodder/blob/master/testing.md#w3c-validation-testing)
+    - [HTML](https://github.com/caseybanks/ms1-face-fodder/blob/master/testing.md#html)
+    - [CSS](https://github.com/caseybanks/ms1-face-fodder/blob/master/testing.md#css)
 * [Responsiveness Testing]()
 
 ## User Story Testing
@@ -85,6 +85,8 @@ Manual testing competed for a user with acne scenario:
 
 ## Manual Testing of Features
 
+All manual testing was performed on Chrome, Edge, FireFox browsers, no bugs were found when using different browsers.
+
 The following features were manually tested:
 
 * Navigation menu links: Home, Beauty Recipe Book, Ingredients, DIY Beauty Recipes, for Dry Skin, for Tired Skin, for Acne, Contact, all take a user to the correct location when clicked - Passed
@@ -153,6 +155,8 @@ Using direct input into the [CSS Validation Service](https://jigsaw.w3.org/css-v
 
 ## Responsiveness Testing
 
-[Am I Responsive?](http://ami.responsivedesign.is/)
+As well as using [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools/) to develop a responsive website as I went along, I have also tested my website on 
+[Am I Responsive?](http://ami.responsivedesign.is/) and [Responsinator](https://www.responsinator.com/) for responsivenss to different sized screens.
 
-[Responsinator](https://www.responsinator.com/)
+The following imporvements have been identified to be fixed to enhance user experience on small screens:
+1. [Responsive UI bugs](https://github.com/caseybanks/ms1-face-fodder/issues/17)
