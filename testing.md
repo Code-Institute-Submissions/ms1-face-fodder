@@ -1,7 +1,7 @@
 # Face Fodder Testing Documentation
 
 ## Table of Contents
-* [User Story Testing]()
+* [User Story Testing](https://github.com/caseybanks/ms1-face-fodder/blob/master/testing.md#user-story-testing)
 * [Manual Testing of Features]()
 * [Peers Review Testing]()
 * [W3C Validation Testing]()
@@ -85,6 +85,14 @@ Manual testing competed for a user with acne scenario:
 |2| User clicks the recipe download button which opens up in a new tab/ window to print or save as an image or PDF |Pass|
 
 ## Manual Testing of Features
+
+The following features were manually tested:
+
+* Navigation menu links: Home, Beauty Recipe Book, Ingredients, DIY Beauty Recipes, for Dry Skin, for Tired Skin, for Acne, Contact, all take a user to the correct location when clicked - Passed
+* The 3 images in DIY solution section on the Home page, all redirect to the correct recipe - Passed
+* Each carousel item has an image link (recipe or ingredient) and more information/ recipe button that redirects to the ingredients page or recipe page - Passed
+* Social media icons, when clicked, open up a new tab/ window to the social URL address - Passed
+* The Contact Form has been tested as part of User story 5 - Passed
 
 ## Peers Review Testing
 
