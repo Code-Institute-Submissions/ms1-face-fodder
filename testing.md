@@ -2,13 +2,12 @@
 
 ## Table of Contents
 * [User Story Testing](https://github.com/caseybanks/ms1-face-fodder/blob/master/testing.md#user-story-testing)
-* [Manual Testing of Features]()
-* [Peers Review Testing]()
+* [Manual Testing of Features](https://github.com/caseybanks/ms1-face-fodder/blob/master/testing.md#manual-testing-of-features)
+* [Peers Review Testing](https://github.com/caseybanks/ms1-face-fodder/blob/master/testing.md#peers-review-testing)
 * [W3C Validation Testing]()
     - [HTML]()
     - [CSS]()
 * [Responsiveness Testing]()
-* [Bugs]()
 
 ## User Story Testing
 > User story 1 - _"I love the natural facemasks I buy from Lush and would like to learn how to make my own, but don't know how."_
