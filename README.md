@@ -277,5 +277,10 @@ Version v1.1 publised on 23/08/2020 to fix the following bugs:
 1. [FF4: Make Beauty Benefits text bigger on Ingredients page](https://github.com/caseybanks/ms1-face-fodder/issues/4)
 1. [FF6: Add a :hover effect to the social icons](https://github.com/caseybanks/ms1-face-fodder/issues/6)
 
+Version v1.2 publised on 24/08/2020 to fix the following bugs:
+1. [W3C Footer error: Incorrect <h7> tag](https://github.com/caseybanks/ms1-face-fodder/issues/13)
+1. [W3C Markup Contact form errors](https://github.com/caseybanks/ms1-face-fodder/issues/14)
+1. [Responsive UI bugs](https://github.com/caseybanks/ms1-face-fodder/issues/17)
+
 Outstanding bug/s to be fixed:
 1. [FF5: When a dropdown nav item is clicked it is highlighted blue](https://github.com/caseybanks/ms1-face-fodder/issues/5)
