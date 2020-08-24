@@ -282,6 +282,10 @@ The Code Institute tutors, mentor and community who have helped me with code and
 
 [back to top](https://github.com/caseybanks/ms1-face-fodder#face-fodder)
 
+## Future Development
+
+To add a shop feature to the website for users to purchase DIY home skincare making kits and equipment.
+
 ## Versions, Bugs and Fixes
 
 Version v1 published on 20/08/2020
@@ -299,4 +303,4 @@ Version v1.2 published on 24/08/2020 to fix the following bugs:
 1. [Responsive UI bugs](https://github.com/caseybanks/ms1-face-fodder/issues/17)
 
 Outstanding bug/s to be fixed:
-1. [FF5: When a dropdown nav item is clicked it is highlighted blue](https://github.com/caseybanks/ms1-face-fodder/issues/5)
+1. [FF5: When a dropdown nav item is clicked it is highlighted blue](https://github.com/caseybanks/ms1-face-fodder/issues/5) - requires further investigation to fix.
