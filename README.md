@@ -1,6 +1,8 @@
 # Face Fodder
 View the live website [here](https://caseybanks.github.io/ms1-face-fodder).
 
+![alt text](https://github.com/caseybanks/ms1-face-fodder/blob/0e5b3b0e1f39dec6399007c014aa613411ef3546/features/overview-image.PNG "Face Fodder Website")
+
 Face Fodder is a brand and informative website for users looking to learn about natural food ingredients which can be used for skincare maintenance.
 The website also houses DIY tutorials which users can follow like a recipe to make their own homemade skincare products, such as moisturising facemasks.
 
