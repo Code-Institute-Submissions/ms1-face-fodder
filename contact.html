@@ -1,194 +1,189 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
-		integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous" />
-	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-		integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
-	</script>
-	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
-		integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
-	</script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
-		integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous">
-	</script>
-    <link href="https://fonts.googleapis.com/css2?family=Crushed&family=Raleway:wght@100;300;400;500;600;700&display=swap" rel="stylesheet">
-	<script src="https://kit.fontawesome.com/865efbed95.js" crossorigin="anonymous"></script>
-	<link rel="stylesheet" href="assets/css/style.css" />
-    <script>
-    // Example starter JavaScript for disabling form submissions if there are invalid fields
-    (function() {
-    'use strict';
-    window.addEventListener('load', function() {
-        // Fetch all the forms we want to apply custom Bootstrap validation styles to
-        var forms = document.getElementsByClassName('needs-validation');
-        // Loop over them and prevent submission
-        var validation = Array.prototype.filter.call(forms, function(form) {
-        form.addEventListener('submit', function(event) {
-            if (form.checkValidity() === false) {
-            event.preventDefault();
-            event.stopPropagation();
-            }
-            form.classList.add('was-validated');
-        }, false);
-        });
-    }, false);
-    })();
-    </script>
-	<title>Face Fodder</title>
-</head>
-
-<body>
-	<header class="container-fluid sticky-top bg-white">
-		<div class="logo-container">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+         integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous" />
+      <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+         integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+         integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+      <link href="https://fonts.googleapis.com/css2?family=Crushed&family=Raleway:wght@100;300;400;500;600;700&display=swap" rel="stylesheet">
+      <script src="https://kit.fontawesome.com/865efbed95.js" crossorigin="anonymous"></script>
+      <link rel="stylesheet" href="assets/css/style.css" />
+      <script>
+         // Example starter JavaScript for disabling form submissions if there are invalid fields
+         (function() {
+         'use strict';
+         window.addEventListener('load', function() {
+             // Fetch all the forms we want to apply custom Bootstrap validation styles to
+             var forms = document.getElementsByClassName('needs-validation');
+             // Loop over them and prevent submission
+             var validation = Array.prototype.filter.call(forms, function(form) {
+             form.addEventListener('submit', function(event) {
+                 if (form.checkValidity() === false) {
+                 event.preventDefault();
+                 event.stopPropagation();
+                 }
+                 form.classList.add('was-validated');
+             }, false);
+             });
+         }, false);
+         })();
+      </script>
+      <title>Face Fodder</title>
+   </head>
+   <body>
+      <header class="container-fluid sticky-top bg-white">
+         <div class="logo-container">
             <a href="index.html">
-			    <img src="assets/img/facefodderlogo.png" class="rounded mx-auto d-block logo-img" alt="Face Fodder Logo" />
+            <img src="assets/img/facefodderlogo.png" class="rounded mx-auto d-block logo-img" alt="Face Fodder Logo" />
             </a>
-	    </div>
-        <nav class="navbar navbar-expand-md sticky-top navbar-light">
+         </div>
+         <nav class="navbar navbar-expand-md sticky-top navbar-light">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" >
-                <span class="navbar-toggler-icon"></span>
-                </button>
+               aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" >
+            <span class="navbar-toggler-icon"></span>
+            </button>
             <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Beauty Recipe Book </a>
-                        <div class="dropdown-menu dropright" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="ingredients.html">Ingredients</a>
-                            <a class="dropdown-item dropdown-toggle" href="#" id="navbarDropdownL2" role="button"
-                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">DIY Beauty Recipes
-                            </a>
-                            <div class="dropdown-menu dropdownl2" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="dryskin.html">for Dry Skin</a>
-                                <a class="dropdown-item" href="tiredskin.html">for Tired Skin</a>
-                                <a class="dropdown-item" href="acne.html">for Acne</a>
-                            </div>
+               <ul class="navbar-nav">
+                  <li class="nav-item">
+                     <a class="nav-link" href="index.html">Home</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Beauty Recipe Book </a>
+                     <div class="dropdown-menu dropright" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="ingredients.html">Ingredients</a>
+                        <a class="dropdown-item dropdown-toggle" href="#" id="navbarDropdownL2" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">DIY Beauty Recipes
+                        </a>
+                        <div class="dropdown-menu dropdownl2" aria-labelledby="navbarDropdown">
+                           <a class="dropdown-item" href="dryskin.html">for Dry Skin</a>
+                           <a class="dropdown-item" href="tiredskin.html">for Tired Skin</a>
+                           <a class="dropdown-item" href="acne.html">for Acne</a>
                         </div>
-                    </li>
-                    <li class="nav-item active">
-                        <a class="nav-link" href="contact.html">Contact<span class="sr-only">(current)</span></a>
-                    </li>
-                </ul>
+                     </div>
+                  </li>
+                  <li class="nav-item active">
+                     <a class="nav-link" href="contact.html">Contact<span class="sr-only">(current)</span></a>
+                  </li>
+               </ul>
             </div>
-        </nav>
-	</header>
-	<section class="container-fluid hero-image-container">
-        <img src="assets/img/Alternative-skin-care-and-scrub-fresh-avocado-leaves-sea-salt-oils-lime-and-honey-on-marble-background.png" class="img-fluid" alt="Alternative skin care and scrub fresh avocado leaves sea salt oils lime and honey on marble background">
-    </section>
-    <section class="container-fluid contact-container">
-        <h4 class="text-center mb-5">SAY HELLO!</h4>
-        <form class="form-container needs-validation" novalidate onsubmit="confirmInput()" action="success.html">
-        <div class="form-group form-group-details">
-            <label for="inputName" class="d-none">name</label>
-            <input type="text" class="form-control form-control-details" id="inputName" placeholder="name"
-            required>
-            <div class="invalid-feedback">
-            please enter your name
+         </nav>
+      </header>
+      <section class="container-fluid hero-image-container">
+         <img src="assets/img/Alternative-skin-care-and-scrub-fresh-avocado-leaves-sea-salt-oils-lime-and-honey-on-marble-background.png" class="img-fluid" alt="Alternative skin care and scrub fresh avocado leaves sea salt oils lime and honey on marble background">
+      </section>
+      <section class="container-fluid contact-container">
+         <h4 class="text-center mb-5">SAY HELLO!</h4>
+         <form class="form-container needs-validation" novalidate onsubmit="confirmInput()" action="success.html">
+            <div class="form-group form-group-details">
+               <label for="inputName" class="d-none">name</label>
+               <input type="text" class="form-control form-control-details" id="inputName" placeholder="name"
+                  required>
+               <div class="invalid-feedback">
+                  please enter your name
+               </div>
             </div>
-        </div>
-        <div class="form-group form-group-details">
-            <label for="inputEmail" class="d-none">email address</label>
-            <input type="email" class="form-control form-control-details" id="inputEmail" placeholder="email address"
-            required aria-describedby="emailHelp">
-            <div class="invalid-feedback">
-            please enter a valid email address that contains an @ symbol
+            <div class="form-group form-group-details">
+               <label for="inputEmail" class="d-none">email address</label>
+               <input type="email" class="form-control form-control-details" id="inputEmail" placeholder="email address"
+                  required aria-describedby="emailHelp">
+               <div class="invalid-feedback">
+                  please enter a valid email address that contains an @ symbol
+               </div>
+               <small id="emailHelp" class="form-text text-muted">we'll never share your email with anyone else</small>
             </div>
-            <small id="emailHelp" class="form-text text-muted">we'll never share your email with anyone else</small>
-        </div>
-        <div class="form-group">
-            <label for="inputQuery" class="d-none"></label>
-            <textarea id="inputQuery" class="form-control" name="inputQuery" rows="4" cols="50" placeholder="Please enter your question or feedback here."></textarea>
-        </div>
-        <div class="form-group form-check">
-            <input type="checkbox" class="form-check-input" id="addToMailList">
-            <label class="form-check-label" for="addToMailList">Yes, please add me to your mailing list</label>
-        </div>
-        <input type="submit" class="btn btn-mintgreen" value="SUBMIT">
-        </form>
-    </section>
-    <section class="container-fluid carousel-container">
-        <h4 class="text-center">DIY SKINCARE RECIPES</h4>
-		<div id="carouselExampleCaptions" class="carousel carousel-content-container slide" data-ride="carousel">
-			<ol class="carousel-indicators">
-				<li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-				<li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-				<li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-			</ol>
-			<div class="carousel-inner">
-				<div class="carousel-item active">
-                    <a href="dryskin.html">
-					    <img src="assets/img/avocado-face-mask-recipe.jpg" class="carousel-image d-block" alt="avocado face mask recipe">
-                    </a>
-					<div class="carousel-caption d-none d-md-block">
-						<h5>FACE MASK FOR DRY SKIN</h5>
-						<p>a little boost of natural moisture</p>
-                        <a href="dryskin.html" class="btn btn-mintgreen btn active" role="button" aria-pressed="true">recipe</a>
-					</div>
-				</div>
-				<div class="carousel-item">
-                    <a href="tiredskin.html">
-					    <img src="assets/img/coffee-face-mask-recipe.jpg" class="carousel-image d-block" alt="coffee face mask recipe">
-                    </a>
-					<div class="carousel-caption d-none d-md-block">
-						<h5>FACE MASK FOR TIRED SKIN</h5>
-						<p>this mask has anti-aging, antioxidant, exfoliating and rejuvenating properties</p>
-                        <a href="tiredskin.html" class="btn btn-mintgreen btn active" role="button" aria-pressed="true">recipe</a>
-					</div>
-				</div>
-				<div class="carousel-item">
-                    <a href="acne.html">
-					    <img src="assets/img/mint-cucumber-face-mask-recipe.jpg" class="carousel-image d-block" alt="mint cucumber face mask recipe">
-                    </a>
-                    <div class="carousel-caption d-none d-md-block">
-						<h5>FACE MASK FOR SKIN WITH ACNE</h5>
-						<p>this is antibacterial and rejuvenating for your skin</p>
-                        <a href="acne.html" class="btn btn-mintgreen btn active" role="button" aria-pressed="true">recipe</a>
-					</div>
-				</div>
-			</div>
-			<a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
-				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-				<span class="sr-only">Previous</span>
-			</a>
-			<a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
-				<span class="carousel-control-next-icon" aria-hidden="true"></span>
-				<span class="sr-only">Next</span>
-			</a>
-		</div>
-    </section>
-    <section class="container-fluid sub-footer-container d-flex justify-content-around">
-    	<div class="container row text-center">
-        	<div class="col-sm-6 justify-content-around" id="footer-email">
-				<h5>say HELLO!</h5>
-				<p>hello@facefodder.com</p>
-			</div>
-			<div class="col-sm-6 d-flex justify-content-around text-center" id="footer-social">
-				<div class="container row">
-					<div class="col-12">
-						<h5>lets get social</h5>
-					</div>
-					<div class="col-12">
-						<a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-square"></i></a>
-						<a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram-square"></i></a>
-						<a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube-square"></i></a>
-						<a href="https://twitter.com/" target="_blank"><i class="fab fa-twitter-square"></i></a>
-					</div>
-				</div>
-			</div>
-        </div>
-    </section>
-	<footer class="container-fluid d-flex justify-content-around">
-		<div class="container-fluid text-center">		
-				<p>Face Fodder© Copyright 2020</p>
-		</div>
-	</footer>
-</body>
+            <div class="form-group">
+               <label for="inputQuery" class="d-none"></label>
+               <textarea id="inputQuery" class="form-control" name="inputQuery" rows="4" cols="50" placeholder="Please enter your question or feedback here."></textarea>
+            </div>
+            <div class="form-group form-check">
+               <input type="checkbox" class="form-check-input" id="addToMailList">
+               <label class="form-check-label" for="addToMailList">Yes, please add me to your mailing list</label>
+            </div>
+            <input type="submit" class="btn btn-mintgreen" value="SUBMIT">
+         </form>
+      </section>
+      <section class="container-fluid carousel-container">
+         <h4 class="text-center">DIY SKINCARE RECIPES</h4>
+         <div id="carouselExampleCaptions" class="carousel carousel-content-container slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+               <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+               <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+               <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+               <div class="carousel-item active">
+                  <a href="dryskin.html">
+                  <img src="assets/img/avocado-face-mask-recipe.jpg" class="carousel-image d-block" alt="avocado face mask recipe">
+                  </a>
+                  <div class="carousel-caption d-none d-md-block">
+                     <h5>FACE MASK FOR DRY SKIN</h5>
+                     <p>a little boost of natural moisture</p>
+                     <a href="dryskin.html" class="btn btn-mintgreen btn active" role="button" aria-pressed="true">recipe</a>
+                  </div>
+               </div>
+               <div class="carousel-item">
+                  <a href="tiredskin.html">
+                  <img src="assets/img/coffee-face-mask-recipe.jpg" class="carousel-image d-block" alt="coffee face mask recipe">
+                  </a>
+                  <div class="carousel-caption d-none d-md-block">
+                     <h5>FACE MASK FOR TIRED SKIN</h5>
+                     <p>this mask has anti-aging, antioxidant, exfoliating and rejuvenating properties</p>
+                     <a href="tiredskin.html" class="btn btn-mintgreen btn active" role="button" aria-pressed="true">recipe</a>
+                  </div>
+               </div>
+               <div class="carousel-item">
+                  <a href="acne.html">
+                  <img src="assets/img/mint-cucumber-face-mask-recipe.jpg" class="carousel-image d-block" alt="mint cucumber face mask recipe">
+                  </a>
+                  <div class="carousel-caption d-none d-md-block">
+                     <h5>FACE MASK FOR SKIN WITH ACNE</h5>
+                     <p>this is antibacterial and rejuvenating for your skin</p>
+                     <a href="acne.html" class="btn btn-mintgreen btn active" role="button" aria-pressed="true">recipe</a>
+                  </div>
+               </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a>
+         </div>
+      </section>
+      <section class="container-fluid sub-footer-container d-flex justify-content-around">
+         <div class="container row text-center">
+            <div class="col-sm-6 justify-content-around" id="footer-email">
+               <h5>say HELLO!</h5>
+               <p>hello@facefodder.com</p>
+            </div>
+            <div class="col-sm-6 d-flex justify-content-around text-center" id="footer-social">
+               <div class="container row">
+                  <div class="col-12">
+                     <h5>lets get social</h5>
+                  </div>
+                  <div class="col-12">
+                     <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                     <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram-square"></i></a>
+                     <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube-square"></i></a>
+                     <a href="https://twitter.com/" target="_blank"><i class="fab fa-twitter-square"></i></a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <footer class="container-fluid d-flex justify-content-around">
+         <div class="container-fluid text-center">
+            <p>Face Fodder© Copyright 2020</p>
+         </div>
+      </footer>
+   </body>
 </html>

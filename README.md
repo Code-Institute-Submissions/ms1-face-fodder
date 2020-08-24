@@ -278,7 +278,7 @@ are free or images I've purchased from [Canva](https://www.canva.com/).
 
 ### Acknowledgements
 
-The Code Institue tutors, mentor and community who have helped me with code and design questions, issues and reviews.
+The Code Institute tutors, mentor and community who have helped me with code and design questions, issues and reviews.
 
 [back to top](https://github.com/caseybanks/ms1-face-fodder#face-fodder)
 
