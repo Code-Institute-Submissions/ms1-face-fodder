@@ -252,7 +252,7 @@ __Testing:__
 
 ## Testing
 
-All testing documentation can be found in the [testing.md](https://github.com/caseybanks/ms1-face-fodder/blob/6f8efbfb752be91b37b4abb2cacefa53f074a764/testing.md) file.
+All testing documentation can be found in the [testing.md](https://github.com/caseybanks/ms1-face-fodder/blob/e69f1b8ee8ac915571b16336f461bda143b130e9/testing.md) file.
 
 [back to top](https://github.com/caseybanks/ms1-face-fodder#face-fodder)
 
