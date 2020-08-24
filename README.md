@@ -273,8 +273,12 @@ To run the code locally, you can clone this repository by clicking on the green 
 ## Credits
 
 ### Media
+All text and graphics such as logo and downloadable recipes have been taken from a business I previously owned and will have been created in [Canva](https://www.canva.com/). Photographic images
+are free or images I've purchased from [Canva](https://www.canva.com/).
 
 ### Acknowledgements
+
+The Code Institue tutors, mentor and community who have helped me with code and design questions, issues and reviews.
 
 [back to top](https://github.com/caseybanks/ms1-face-fodder#face-fodder)
 
