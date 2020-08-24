@@ -258,6 +258,18 @@ All testing documentation can be found in the [testing.md](https://github.com/ca
 
 ## Deployment
 
+The website was developed using GitPod and makes use of GitHub's technology for deployment. GitHub Pages is used to serve the Face Fodder website.
+
+To deploy the Face Fodder website please follow the steps below:
+1. Opened up GitHub and login
+1. Search the repository [caseybanks/ms1-face-fodder](https://github.com/caseybanks/ms1-face-fodder)
+1. In the navigation select settings, the scroll down to GitHub Pages
+1. Selected Master Branch and root folder, then save
+After a few minutes the website will be live and a published address should appear under GitHub Pages.
+
+To run the code locally, you can clone this repository by clicking on the green 'Code' button and then 'download zip', or you can Clone with HTTPS using 
+`git clone https://github.com/CodeSonia/CodeSonia_Personal_Portfolio.git` into the terminal you are using. Please also follow by typing `git remote rm original` to remove itself from the repo. Thanks!
+
 ## Credits
 
 ### Media
@@ -268,16 +280,16 @@ All testing documentation can be found in the [testing.md](https://github.com/ca
 
 ## Versions, Bugs and Fixes
 
-Version v1 publised on 20/08/2020
+Version v1 published on 20/08/2020
 
-Version v1.1 publised on 23/08/2020 to fix the following bugs:
+Version v1.1 published on 23/08/2020 to fix the following bugs:
 1. [FF1: Add Home link to Logo image](https://github.com/caseybanks/ms1-face-fodder/issues/1)
 1. [FF2: Make form submit success page clearer](https://github.com/caseybanks/ms1-face-fodder/issues/2)
 1. [FF3: On small screen the "HOME DIY SOLUTIONS FOR ..." section does not center align images](https://github.com/caseybanks/ms1-face-fodder/issues/3)
 1. [FF4: Make Beauty Benefits text bigger on Ingredients page](https://github.com/caseybanks/ms1-face-fodder/issues/4)
 1. [FF6: Add a :hover effect to the social icons](https://github.com/caseybanks/ms1-face-fodder/issues/6)
 
-Version v1.2 publised on 24/08/2020 to fix the following bugs:
+Version v1.2 published on 24/08/2020 to fix the following bugs:
 1. [W3C Footer error: Incorrect <h7> tag](https://github.com/caseybanks/ms1-face-fodder/issues/13)
 1. [W3C Markup Contact form errors](https://github.com/caseybanks/ms1-face-fodder/issues/14)
 1. [Responsive UI bugs](https://github.com/caseybanks/ms1-face-fodder/issues/17)
